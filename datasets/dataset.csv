@@ -1,0 +1,51 @@
+id,first_name,last_name,email,transaction_date,transaction_amount,financial_advisor,investment_return,client_country,account_number,client_phone,loan_amount,credit_score,interest_rate
+1,Trumann,Holleworth,tholleworth0@indiatimes.com,4/3/2024,$674.29,Trumann Holleworth,$33.77,Indonesia,54699,755-923-8442,$193.01,522,7.2
+2,Gay,Huckleby,ghuckleby1@ustream.tv,3/22/2024,$214.21,Gay Huckleby,$328.33,Poland,52251,625-796-2839,$864.98,591,9.8
+3,Alley,Pulteneye,apulteneye2@indiegogo.com,2/6/2024,$225.26,Alley Pulteneye,$622.95,Cameroon,67461,125-410-0525,$674.91,818,3.7
+4,Jillian,Griffith,jgriffith3@shutterfly.com,3/7/2024,$29.85,Jillian Griffith,$445.96,South Korea,66696,432-764-0475,$181.36,907,2.1
+5,Grant,Haps,ghaps4@ucsd.edu,1/17/2024,$236.04,Grant Haps,$911.13,Japan,16531,997-175-9990,$272.54,814,9.3
+6,Ava,Covotto,acovotto5@cornell.edu,10/18/2024,$412.95,Ava Covotto,$719.11,Serbia,49106,502-308-2137,$568.59,548,11.2
+7,Brear,Ommanney,bommanney6@state.gov,12/18/2023,$578.62,Brear Ommanney,$902.95,China,73674,585-150-2576,$200.35,684,8.8
+8,Liesa,Morecombe,lmorecombe7@plala.or.jp,12/17/2023,$839.32,Liesa Morecombe,$8.59,China,87937,728-540-9391,$707.23,661,9.7
+9,Chelsea,Spilsbury,cspilsbury8@clickbank.net,2/16/2024,$488.35,Chelsea Spilsbury,$570.39,Croatia,58381,414-728-8414,$559.40,798,12.4
+10,Lodovico,Hehl,lhehl9@jalbum.net,12/26/2023,$203.73,Lodovico Hehl,$429.68,China,12908,165-230-4553,$891.61,729,3.8
+11,Janet,Danielczyk,jdanielczyka@twitter.com,8/24/2024,$123.66,Janet Danielczyk,$642.56,China,86028,401-657-0867,$177.38,613,10.9
+12,Morgana,Minkin,mminkinb@ustream.tv,7/3/2024,$297.39,Morgana Minkin,$302.58,China,70193,580-140-8685,$955.47,639,5.7
+13,Milicent,Archley,marchleyc@adobe.com,1/21/2024,$490.48,Milicent Archley,$247.35,Netherlands,18212,701-226-4212,$856.69,534,6.7
+14,Brande,O'Scandall,boscandalld@nydailynews.com,6/11/2024,$728.46,Brande O'Scandall,$446.59,Greece,22627,573-462-5651,$969.08,765,12.7
+15,Emilie,Crocroft,ecrocrofte@mozilla.org,1/22/2024,$297.13,Emilie Crocroft,$189.21,China,58765,209-113-2566,$199.16,644,12.9
+16,Deeyn,Emslie,demslief@berkeley.edu,11/14/2024,$587.47,Deeyn Emslie,$922.70,Philippines,49195,153-816-7488,$165.05,662,8.3
+17,Flynn,Danko,fdankog@elegantthemes.com,11/12/2024,$545.02,Flynn Danko,$61.20,United States,57736,816-543-4310,$217.88,673,2.5
+18,Carlye,Tilsley,ctilsleyh@nbcnews.com,2/19/2024,$699.45,Carlye Tilsley,$114.15,Brazil,44025,706-773-2580,$309.94,944,7.4
+19,Daffy,Jorcke,djorckei@jalbum.net,8/19/2024,$611.63,Daffy Jorcke,$742.80,Vietnam,47240,461-709-1932,$962.08,893,8.1
+20,Lavinie,Bromage,lbromagej@reverbnation.com,7/7/2024,$442.54,Lavinie Bromage,$9.55,Croatia,35143,238-261-8053,$639.19,986,4.5
+21,Maribel,Stirland,mstirlandk@skype.com,9/28/2024,$608.76,Maribel Stirland,$908.84,Argentina,60198,141-375-5922,$543.27,718,6.4
+22,Shannon,Sollis,ssollisl@washingtonpost.com,6/25/2024,$310.65,Shannon Sollis,$727.71,Peru,62951,573-461-6340,$433.07,901,8.2
+23,Jerrold,Bricksey,jbrickseym@fotki.com,7/21/2024,$24.29,Jerrold Bricksey,$798.58,Madagascar,56892,692-686-1446,$372.04,906,4.6
+24,Lurlene,MacKaig,lmackaign@wp.com,2/27/2024,$859.06,Lurlene MacKaig,$21.39,Philippines,44180,958-488-1584,$617.58,526,12.4
+25,Andreas,Thomsen,athomseno@tumblr.com,1/4/2024,$633.96,Andreas Thomsen,$484.29,Brunei,81206,809-591-0360,$943.74,964,11.4
+26,Charles,McIlvaney,cmcilvaneyp@wikispaces.com,5/25/2024,$840.59,Charles McIlvaney,$662.89,France,53985,384-233-1841,$451.06,751,10.6
+27,Ricca,Tootal,rtootalq@google.ru,8/23/2024,$620.54,Ricca Tootal,$665.62,Philippines,21417,153-762-1868,$558.40,739,5.9
+28,Berry,Mosdill,bmosdillr@barnesandnoble.com,10/21/2024,$682.26,Berry Mosdill,$433.65,Indonesia,85990,321-783-3518,$551.48,748,3.1
+29,Nikolaus,Canland,ncanlands@goo.gl,10/22/2024,$647.38,Nikolaus Canland,$61.09,Honduras,88003,645-465-2682,$574.68,621,5.1
+30,Rubie,Daunay,rdaunayt@yahoo.com,12/24/2023,$634.46,Rubie Daunay,$968.61,Yemen,70745,744-851-2265,$427.80,586,4.7
+31,Connie,Fetherstan,cfetherstanu@vimeo.com,8/24/2024,$726.70,Connie Fetherstan,$580.63,Indonesia,20751,528-711-4193,$904.83,683,13.0
+32,Brody,Fewster,bfewsterv@tripadvisor.com,12/12/2023,$535.00,Brody Fewster,$471.24,Sudan,23204,296-955-1224,$603.67,750,2.1
+33,Addie,Haddock,ahaddockw@latimes.com,11/1/2024,$998.13,Addie Haddock,$296.76,Malaysia,34445,791-581-7630,$479.85,624,7.0
+34,Saraann,Ansell,sansellx@tuttocitta.it,7/6/2024,$934.61,Saraann Ansell,$504.33,China,37666,730-511-2842,$264.66,766,6.2
+35,Datha,Tackes,dtackesy@prweb.com,9/6/2024,$124.50,Datha Tackes,$43.13,Norway,66943,933-759-8505,$903.81,955,3.0
+36,Renaud,Haig,rhaigz@house.gov,12/16/2023,$383.03,Renaud Haig,$920.21,Malaysia,19626,602-496-0505,$717.24,622,3.8
+37,Miguel,Tompkiss,mtompkiss10@who.int,5/3/2024,$292.07,Miguel Tompkiss,$863.24,Portugal,38919,702-297-2980,$151.52,951,7.7
+38,Gill,Snow,gsnow11@thetimes.co.uk,7/26/2024,$793.54,Gill Snow,$252.51,Indonesia,51311,682-922-4810,$939.48,755,9.9
+39,Stepha,Ilsley,silsley12@webnode.com,12/10/2023,$328.45,Stepha Ilsley,$460.51,Indonesia,86262,882-583-7943,$859.36,960,7.1
+40,Guilbert,Sails,gsails13@nba.com,11/29/2024,$781.11,Guilbert Sails,$482.62,Indonesia,85170,486-560-0743,$216.65,804,9.3
+41,Bethanne,Grasha,bgrasha14@addtoany.com,9/5/2024,$679.59,Bethanne Grasha,$940.29,Indonesia,69941,798-187-7267,$424.50,503,8.2
+42,Glynis,Skittrall,gskittrall15@ycombinator.com,12/5/2023,$813.09,Glynis Skittrall,$203.37,Philippines,85386,168-840-9222,$604.42,890,12.5
+43,Brianne,Demeza,bdemeza16@reddit.com,11/18/2024,$312.28,Brianne Demeza,$391.62,Cayman Islands,40020,165-205-2522,$820.46,632,11.8
+44,Terry,Esilmon,tesilmon17@tamu.edu,10/11/2024,$523.18,Terry Esilmon,$366.19,China,14862,454-834-9727,$777.87,500,6.1
+45,Petunia,Spikings,pspikings18@sina.com.cn,2/1/2024,$963.12,Petunia Spikings,$369.88,Poland,34727,637-449-1598,$227.56,696,11.6
+46,Cassie,Striker,cstriker19@barnesandnoble.com,7/30/2024,$583.39,Cassie Striker,$516.97,Philippines,23104,264-203-8057,$767.50,861,2.5
+47,Elmer,Gratton,egratton1a@usgs.gov,8/21/2024,$896.86,Elmer Gratton,$202.09,Japan,52315,479-859-8363,$115.16,675,11.2
+48,Sheffy,Truran,struran1b@last.fm,5/9/2024,$768.15,Sheffy Truran,$711.34,Sweden,17639,668-119-8484,$570.03,583,11.6
+49,Ivor,Yesinov,iyesinov1c@drupal.org,10/8/2024,$828.22,Ivor Yesinov,$251.32,Indonesia,62038,433-910-0278,$980.30,809,4.8
+50,Welsh,Sole,wsole1d@dailymotion.com,3/31/2024,$939.71,Welsh Sole,$832.65,Colombia,58914,504-989-7430,$325.24,766,5.7

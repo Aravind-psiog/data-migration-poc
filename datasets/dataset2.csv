@@ -1,0 +1,51 @@
+transaction_id,first_name,last_name,email_id,transaction_date,transaction_amount,financial_manager,investment_return,country,account_number,phone,loan_amount,credit_score,interest_rate,account_holder_age,balance,approved,next_renewal
+1,Kaela,Bubbear,kbubbear0@gmpg.org,3/3/2024,$597.30,Kaela Bubbear,$526.25,Dominican Republic,86437,995-334-4277,$930.08,708,4.7,29,6896,true,9/23/2024
+2,Jennica,Midghall,jmidghall1@slashdot.org,10/13/2024,$972.36,Jennica Midghall,$788.01,China,75524,117-979-6150,$815.38,752,4.4,43,9513,false,4/26/2024
+3,Dianna,Hurry,dhurry2@apple.com,12/4/2023,$913.19,Dianna Hurry,$432.96,Dominican Republic,65523,860-127-8430,$534.32,662,8.0,59,3033,false,7/5/2024
+4,Valdemar,Longwood,vlongwood3@illinois.edu,5/19/2024,$524.43,Valdemar Longwood,$946.38,Peru,21498,947-624-8043,$734.93,983,12.5,47,2755,false,6/8/2024
+5,Karlotte,Illesley,killesley4@mozilla.com,2/24/2024,$108.42,Karlotte Illesley,$963.55,United States,50397,727-861-2338,$985.09,766,4.5,62,8821,true,5/20/2024
+6,Edithe,Kerkham,ekerkham5@flickr.com,6/28/2024,$933.71,Edithe Kerkham,$251.81,China,47977,223-786-1680,$840.62,932,7.0,53,9327,false,8/18/2024
+7,Bertine,Tanby,btanby6@vinaora.com,8/22/2024,$432.03,Bertine Tanby,$866.99,Poland,46240,106-993-4193,$872.90,843,11.8,37,5156,false,4/18/2024
+8,Trudy,Couser,tcouser7@taobao.com,3/4/2024,$175.30,Trudy Couser,$633.76,Indonesia,57815,995-602-0889,$985.67,861,12.9,26,1976,false,2/7/2024
+9,Linnell,Clymer,lclymer8@wunderground.com,10/8/2024,$871.77,Linnell Clymer,$572.79,Philippines,43335,841-791-5760,$199.70,785,5.3,20,3663,true,3/19/2024
+10,Marika,Panchin,mpanchin9@skype.com,5/30/2024,$353.46,Marika Panchin,$824.76,Japan,14161,425-194-1293,$434.76,878,6.5,41,1147,true,9/30/2024
+11,Fern,Castello,fcastelloa@phoca.cz,2/7/2024,$625.54,Fern Castello,$539.65,Indonesia,70085,356-952-3673,$421.83,788,11.3,33,3583,false,9/25/2024
+12,Teddy,Necrews,tnecrewsb@elpais.com,10/14/2024,$99.53,Teddy Necrews,$952.69,Indonesia,51797,455-489-4770,$445.32,987,11.3,27,3386,false,1/22/2024
+13,Raquel,Marlen,rmarlenc@columbia.edu,11/15/2024,$166.74,Raquel Marlen,$146.50,France,38331,576-943-2770,$750.48,662,10.5,66,1696,false,8/24/2024
+14,Nicolle,Reicharz,nreicharzd@furl.net,12/19/2023,$447.32,Nicolle Reicharz,$200.03,Bulgaria,63282,809-572-7472,$115.30,540,3.5,52,4450,true,10/11/2024
+15,Deane,Meenehan,dmeenehane@prnewswire.com,5/12/2024,$556.00,Deane Meenehan,$998.11,Indonesia,28431,751-284-3039,$988.08,677,8.3,39,3354,false,5/22/2024
+16,Cosetta,Carnegy,ccarnegyf@networksolutions.com,12/29/2023,$81.45,Cosetta Carnegy,$155.07,Peru,73738,862-409-2861,$996.36,704,11.9,24,6051,false,11/15/2024
+17,Carny,Josefsson,cjosefssong@elegantthemes.com,11/11/2024,$897.88,Carny Josefsson,$912.78,Afghanistan,59940,776-805-5418,$965.21,879,7.4,62,3967,true,7/25/2024
+18,Marie-jeanne,Ternent,mternenth@hibu.com,5/31/2024,$969.66,Marie-jeanne Ternent,$100.45,Russia,68647,254-477-5870,$680.57,696,3.2,41,3115,true,3/25/2024
+19,Rosalyn,Siely,rsielyi@ocn.ne.jp,2/27/2024,$797.60,Rosalyn Siely,$28.33,Portugal,56073,320-971-2873,$664.30,922,8.4,26,7645,true,2/2/2024
+20,Donelle,Manning,dmanningj@tripod.com,2/5/2024,$285.90,Donelle Manning,$5.01,Indonesia,81927,347-243-8491,$397.20,801,3.7,40,5491,true,12/16/2023
+21,Kellby,Shevelin,kshevelink@sbwire.com,6/23/2024,$826.70,Kellby Shevelin,$647.98,Indonesia,46198,818-603-7080,$839.67,678,8.5,33,3742,true,3/7/2024
+22,Bennett,Bowery,bboweryl@trellian.com,3/2/2024,$149.85,Bennett Bowery,$694.68,Philippines,66835,522-398-1090,$876.48,525,9.7,67,2679,true,8/26/2024
+23,Kayne,Fitchen,kfitchenm@google.nl,12/19/2023,$983.07,Kayne Fitchen,$356.20,Jamaica,33558,308-572-1931,$966.86,938,5.0,39,6562,true,11/30/2024
+24,Sandye,Perrycost,sperrycostn@reddit.com,6/7/2024,$840.15,Sandye Perrycost,$962.60,Czech Republic,11953,619-971-6943,$352.85,734,10.1,35,6815,false,10/13/2024
+25,Erwin,Kleisle,ekleisleo@dedecms.com,9/6/2024,$254.29,Erwin Kleisle,$482.48,Indonesia,33685,602-749-1980,$921.33,582,8.0,55,2237,false,2/17/2024
+26,Rhodie,Iron,rironp@mozilla.org,4/24/2024,$799.00,Rhodie Iron,$65.48,Vietnam,64663,255-514-8953,$577.99,561,4.0,54,7513,true,9/9/2024
+27,Carlene,Blum,cblumq@telegraph.co.uk,12/4/2023,$809.29,Carlene Blum,$435.12,United States,15772,202-604-5389,$940.11,733,6.6,37,3622,false,12/22/2023
+28,Paton,Sharpin,psharpinr@slashdot.org,4/19/2024,$702.79,Paton Sharpin,$607.40,Russia,44556,416-536-7905,$374.94,651,5.1,65,6679,true,1/2/2024
+29,Minetta,Eacle,meacles@youtu.be,8/28/2024,$840.20,Minetta Eacle,$261.38,Ukraine,38153,552-999-6676,$644.54,839,2.4,65,7470,true,4/13/2024
+30,Tybalt,Mapledoore,tmapledooret@dailymail.co.uk,1/16/2024,$204.12,Tybalt Mapledoore,$26.67,China,14925,291-886-4652,$547.81,679,10.5,56,3198,true,4/8/2024
+31,Lester,Trattles,ltrattlesu@altervista.org,2/17/2024,$251.01,Lester Trattles,$14.86,China,84048,570-735-2525,$375.47,948,6.6,58,3737,true,4/6/2024
+32,Grange,Govier,ggovierv@sakura.ne.jp,2/3/2024,$224.59,Grange Govier,$921.94,China,69625,802-445-4748,$395.88,791,5.5,68,5413,false,7/14/2024
+33,Frederick,Kill,fkillw@over-blog.com,9/18/2024,$718.80,Frederick Kill,$932.43,Indonesia,62526,432-532-6301,$694.86,761,3.9,43,7116,true,1/25/2024
+34,Belita,Carn,bcarnx@artisteer.com,4/15/2024,$614.52,Belita Carn,$746.92,Indonesia,88529,823-418-3300,$447.03,535,4.1,63,7134,true,3/21/2024
+35,Blanche,Halesworth,bhalesworthy@miitbeian.gov.cn,11/27/2024,$22.97,Blanche Halesworth,$890.15,China,63211,965-592-7705,$277.05,723,4.5,22,9937,false,10/24/2024
+36,Tisha,Zanicchi,tzanicchiz@bbb.org,5/14/2024,$759.10,Tisha Zanicchi,$927.69,Belarus,75923,856-672-0988,$695.25,770,11.0,65,1942,false,11/8/2024
+37,Vale,Swanger,vswanger10@flavors.me,6/1/2024,$949.37,Vale Swanger,$483.18,China,79812,764-301-7540,$674.96,572,4.9,46,4048,false,5/15/2024
+38,Yuma,Coote,ycoote11@paginegialle.it,2/19/2024,$114.43,Yuma Coote,$127.49,Indonesia,65718,895-681-8980,$134.08,835,3.0,24,7976,true,8/11/2024
+39,Travus,Brunke,tbrunke12@123-reg.co.uk,8/20/2024,$98.07,Travus Brunke,$765.93,Russia,26662,922-525-8787,$261.15,748,2.7,49,5269,false,9/30/2024
+40,Mirilla,Firbanks,mfirbanks13@jalbum.net,7/4/2024,$118.07,Mirilla Firbanks,$133.08,Afghanistan,48643,843-812-5286,$809.54,621,11.2,60,8676,true,11/10/2024
+41,Ardenia,McNirlin,amcnirlin14@cdc.gov,8/24/2024,$135.61,Ardenia McNirlin,$405.02,Russia,35679,965-881-0808,$464.53,863,3.1,68,6287,false,4/7/2024
+42,Arlee,Ackland,aackland15@wsj.com,3/22/2024,$861.23,Arlee Ackland,$169.59,Micronesia,47338,852-626-6344,$620.83,588,7.6,28,1465,false,11/3/2024
+43,Mitch,Peers,mpeers16@foxnews.com,2/24/2024,$473.34,Mitch Peers,$482.72,Brazil,63055,845-359-7019,$112.23,845,7.6,41,8725,true,11/26/2024
+44,Pearle,Brighouse,pbrighouse17@myspace.com,9/5/2024,$128.01,Pearle Brighouse,$370.06,Russia,80731,680-227-2259,$103.20,988,6.7,54,1951,false,9/13/2024
+45,Merrel,Ionn,mionn18@businessinsider.com,12/20/2023,$435.70,Merrel Ionn,$677.97,Uzbekistan,21087,233-701-4864,$426.18,994,9.5,45,8974,false,8/11/2024
+46,Franciskus,Arsnell,farsnell19@unesco.org,8/23/2024,$966.36,Franciskus Arsnell,$558.99,Thailand,59830,482-157-2504,$230.09,870,10.8,36,3359,false,12/22/2023
+47,Elissa,Causer,ecauser1a@discovery.com,4/2/2024,$548.74,Elissa Causer,$380.94,Russia,73573,522-960-9407,$928.87,718,8.6,21,8621,true,1/26/2024
+48,Letizia,Glading,lglading1b@photobucket.com,11/24/2024,$50.37,Letizia Glading,$841.09,United States,40305,312-400-8226,$718.05,915,6.3,21,3908,true,8/23/2024
+49,Taddeo,Sweeting,tsweeting1c@ow.ly,1/30/2024,$567.30,Taddeo Sweeting,$166.31,Sweden,88297,796-346-5308,$473.60,634,7.2,38,9421,true,11/15/2024
+50,Jemie,Mates,jmates1d@europa.eu,8/14/2024,$264.90,Jemie Mates,$98.29,Russia,18117,835-385-3070,$477.35,556,6.3,22,7373,true,9/20/2024
