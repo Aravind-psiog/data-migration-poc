@@ -133,7 +133,7 @@ def populate_target_schema(sources, target_schema, field_mapping, threshold):
 
 
 # Streamlit UI
-st.title("CSV Schema and Similarity Matrix Processor")
+st.title("Data migration poc")
 
 # Upload source CSV files
 uploaded_files = []
