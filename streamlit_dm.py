@@ -143,6 +143,7 @@ for i in range(3):
     if uploaded_file:
         uploaded_files.append(uploaded_file)
 
+st.title("Target schema")
 # Upload target schema CSV file
 uploaded_target_file = st.file_uploader(
     "Upload target schema CSV file", type="csv")
