@@ -50,7 +50,6 @@ def process_data(source_files, target_file, threshold=0.5):
 
     # Load pre-trained embedding model
     model = SentenceTransformer("all-MiniLM-L6-v2")
-
     # Generate embeddings for source and target fields
     source_embeddings = model.encode(source_fields)
     target_embeddings = model.encode(target_schema)
